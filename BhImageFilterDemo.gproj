@@ -1,0 +1,13 @@
+<project>
+ <properties autorotation="0" fps="60" scaleMode="2" iosDevice="0" xcodeVersion="0" packageName="com.yourdomain.yourapp" logicalHeight="1024" logicalWidth="768" retinaDisplay="0" assetsOnly="0" orientation="1" architecture="0">
+  <imageScales/>
+ </properties>
+ <file source="FunnyPlane.png"/>
+ <file source="main.lua"/>
+ <file source="init.lua"/>
+ <file source="BhImageFilterDemo.lua"/>
+ <folder name="Libraries">
+  <file source="../BhHelpers/BhHelpers.lua"/>
+  <file source="../../Misc/strict.lua"/>
+ </folder>
+</project>

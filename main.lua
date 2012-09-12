@@ -1,0 +1,3 @@
+require "BhImageFilterDemo"
+
+BhImageFilterDemo.new()
